@@ -1,2 +1,2 @@
 # Lab_Exercises
-contains laboratory exercises 
+contains laboratory exercises for CET 3 - Game Development
